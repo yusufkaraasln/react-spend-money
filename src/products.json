@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "title":"Sakız",
+        "price": 0.5,
+        "image":"https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/07124238/07124238-be7324-1650x1650.jpg"
+    },
+    {
+        "id":2,
+        "title":"Kola",
+        "price": 6,
+        "image":"https://cdn.dsmcdn.com/ty28/product/media/images/20201127/18/33097970/58233896/1/1_org_zoom.jpg"
+    },
+    {
+        "id":3,
+        "title":"Ayran",
+        "price": 12,
+        "image": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/46054715/46054715-8a2faf-1650x1650.jpg"
+    },
+    {
+        "id":4,
+        "title":"Kokoreç",
+        "price": 30,
+        "image":"https://cdn.yemek.com/uploads/2018/10/cengelkoy-kokorecci-yeni.jpg"
+    },
+    {
+        "id":5,
+        "title":"Midye",
+        "price": 2.5,
+        "image":"https://i4.hurimg.com/i/hurriyet/75/750x422/617ff16b4e3fe0193ca4ce62.jpg"
+    }
+]
